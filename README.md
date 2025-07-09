@@ -20,4 +20,26 @@ Este ejercicio permite entender:
 
 - Cómo funciona la recursividad en exploración de archivos.
 - Inserción de código en otros archivos.
-- Pri
+- Principios básicos de autopropagación en programación.
+
+---
+
+## 👨‍💻 Autor
+
+**Anthony Castro**  
+Estudiante de Ingeniería de Sistemas  
+Huancavelica, Perú
+
+---
+
+## ✅ Recomendaciones
+
+- Probar en un **entorno controlado**, como una carpeta aislada.
+- No ejecutar en sistemas donde haya código importante.
+- Revisar el código y comprenderlo antes de ejecutarlo.
+
+---
+
+## 📄 Licencia
+
+Este proyecto se distribuye con fines educativos bajo la **Licencia MIT**. Eres libre de modificarlo y distribuirlo siempre que se mantenga este aviso.
